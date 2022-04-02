@@ -1,1 +1,11 @@
 This directory contains two assignments from week 2 of my C++ class.
+
+Assignment #1: 
+
+Create a C++ program that generates a text file called “week2.txt” that contains “a” in the first line, “aa” in the second line, “aaa” in the third line, and so forth, up to line 15. Your program must implement a loop to achieve this.
+
+Assignment #2:
+
+Write a C++ program that sends to the standard output the first 10 multiples of an integer number inserted by the user (make sure that you tell the users what you expect them to do). For instance, if the user inserts a 5, it displays 5, 10, 15, 20, etc. all the way to 50.
+
+Your program must use a loop to achieve this.
