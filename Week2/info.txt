@@ -1,0 +1,1 @@
+This directory contains two assignments from week 2 of my C++ class.
